@@ -1,1 +1,8 @@
-/src
+src/       # Exclude the entire src folder
+node_modules/
+.vscode/
+tests/
+*.ts
+*.json
+README.md
+*.md
