@@ -1,6 +1,6 @@
 # Exclude everything except dist folder
 !dist/
-src/
+src/index.ts
 tests/
 node_modules/
 .vscode/
