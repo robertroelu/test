@@ -17,8 +17,8 @@
     "url": "https://github.com/finsweet/developer-starter/issues"
   },
   "type": "module",
-  "main": "dist/index.ts",
-  "module": "dist/index.ts",
+  "main": "src/index.ts",
+  "module": "src/index.ts",
   "files": [
     "dist"
   ],
