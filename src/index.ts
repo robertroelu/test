@@ -28,5 +28,5 @@ window.Webflow.push(() => {
   // swipers();
   // typer();
 
-  console.log('ide/nejde');
+  console.log('ide/nejde/dalsi');
 });
