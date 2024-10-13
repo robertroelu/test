@@ -1,8 +1,7 @@
-src/       # Exclude the entire src folder
+# Exclude everything except dist folder
+!dist/
+src/
+tests/
 node_modules/
 .vscode/
-tests/
 *.ts
-*.json
-README.md
-*.md
