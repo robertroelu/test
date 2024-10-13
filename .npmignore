@@ -1,7 +1,3 @@
-# Exclude everything except dist folder
+# Ignore everything except dist folder
+*
 !dist/
-src/index.ts
-tests/
-node_modules/
-.vscode/
-*.ts
